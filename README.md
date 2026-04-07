@@ -1,5 +1,9 @@
 # 📊 Controle Financeiro App
 
+<div align="center">
+  <img src="assets/controle-financeiro1.png" alt="Dashboard Principal" width="800">
+</div>
+
 Um painel de inteligência financeira automatizado. Este projeto substitui o preenchimento manual de planilhas por uma arquitetura moderna onde lançamentos de gastos e entradas são feitos enviando mensagens simples via Telegram, processados por uma automação (n8n) e exibidos em um Dashboard responsivo em tempo real.
 
 ---
